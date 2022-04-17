@@ -2,7 +2,7 @@
 
 #University Management System
 University Management System (UMS) is a simple console application developed using Java programming language and MySQL as database.
-This mini project utilizes various aspects of the Java language such as Encapsulation, Abstraction, Collection Framework, File Handling nd Exception Handling.
+This mini project utilizes various aspects of the Java language such as Encapsulation, Abstraction, Collection Framework, File Operations and Exception Handling.
 This project also store and retrieve the informations in database as Structured Query Language.
 The Core purpose of designing the system is to manage the task related to the students, faculty and administrator in university and to reduce time in searching of appropriate data.
 
